@@ -9,6 +9,8 @@ Kshitijkr31/Kshitijkr31 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kshitijkr31)](https://github.com/ryo-ma/github-profile-trophy)
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Kshitijkr31&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitijkr31)](https://github.com/Kshitijkr31/github-readme-stats)
 ## GSSOC(24) Badges 🪶
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -27,4 +29,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Kshitijkr31&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+
