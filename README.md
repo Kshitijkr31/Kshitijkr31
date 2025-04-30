@@ -11,14 +11,26 @@
   <li>📫 How to reach me: <b>kshitijkumar3108@gmail.com</b></li>
 </ul>
 
+<br/>
 
-<!---
-Kshitijkr31/Kshitijkr31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kshitijkr31)](https://github.com/ryo-ma/github-profile-trophy)
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Kshitijkr31&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitijkr31)](https://github.com/Kshitijkr31/github-readme-stats)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kshitijkr31" alt="Kshitij's GitHub Trophies" />
+</p>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitijkr31&show_icons=true&theme=tokyonight" alt="Kshitij's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitijkr31&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ## GSSOC(24) Badges 🪶
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
