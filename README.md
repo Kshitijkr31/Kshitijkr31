@@ -1,4 +1,4 @@
-<h1 style="margin-left: 50px;">
+<h1 style="margin-left: 90px;">
   <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Kshitij;I'm+Kshitij+Kumar&color=1E90FF" alt="Typing SVG" />
 </h1>
 
