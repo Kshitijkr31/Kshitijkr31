@@ -39,12 +39,88 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" />
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="120" />
+  </a>
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="120" />
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="120" />
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="120" />
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="120" />
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="120" />
+  </a>
+  <!-- React.js -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" width="120" />
+  </a>
+  <!-- jQuery -->
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" width="120" />
+  </a>
+  <!-- Shadcn -->
+  <a href="https://github.com/shadcn/ui" target="_blank">
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=flat&logo=shadcn&logoColor=white" alt="Shadcn" width="120" />
+  </a>
+  <!-- MUI -->
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" alt="MUI" width="120" />
+  </a>
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" width="120" />
+  </a>
+  <!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" width="120" />
+  </a>
+  <!-- phpMyAdmin -->
+  <a href="https://www.phpmyadmin.net/" target="_blank">
+    <img src="https://img.shields.io/badge/phpMyAdmin-6F4F97?style=flat&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" width="120" />
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" width="120" />
+  </a>
+  <!-- Render -->
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-8B5CF6?style=flat&logo=render&logoColor=white" alt="Render" width="120" />
+  </a>
+  <!-- Netlify -->
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" width="120" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="120" />
+  </a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" width="120" />
+  </a>
+  <!-- ThunderClient -->
+  <a href="https://www.thunderclient.io/" target="_blank">
+    <img src="https://img.shields.io/badge/ThunderClient-FF6F00?style=flat&logo=thunderclient&logoColor=white" alt="ThunderClient" width="120" />
+  </a>
 </p>
+
 
 
 ## GSSOC(24) Badges 🪶
