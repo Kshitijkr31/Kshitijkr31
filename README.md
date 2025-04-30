@@ -15,7 +15,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Kshitijkr31" alt="Kshitij's GitHub Trophies" />
 </p>
 
