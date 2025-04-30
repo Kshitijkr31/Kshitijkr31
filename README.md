@@ -1,11 +1,16 @@
-Hi 👋, I'm Kshitij Kumar
-Aspiring Full Stack Developer
+<h1 align="center">Hi 👋, I'm Kshitij Kumar</h1>
+
+<h2 align="center">🚀 Aspiring Full Stack Developer</h2>
+
+<br>
 <!---
 Kshitijkr31/Kshitijkr31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kshitijkr31)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Kshitijkr31&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitijkr31)](https://github.com/Kshitijkr31/github-readme-stats)
 ## GSSOC(24) Badges 🪶
 <details>	
