@@ -1,14 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I'm+Kshitij;I'm+Kshitij+Kumar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Kshitij;I'm+Kshitij+Kumar" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=28&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer" alt="Typing SVG 2" />
 </h2>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=🌱+Currently+learning+MERN+Stack+and+Cloud+Computing.;💻+Passionate+about+building+scalable+web+apps+and+new+technologies.;📚+Always+eager+to+learn+and+grow+as+a+developer.;🛠️+Sharpening+skills+in+React%2C+Node.js%2C+MongoDB%2C+Express%2C+Java%2C+SQL.;🎯+Goal:+Proficient+Full+Stack+Developer+%26+impactful+projects.;📫+Reach+me:+kshitijkumar3108@gmail.com" alt="Typing Points" />
 </h3>
+
+
+
+
 
 <br/>
 
