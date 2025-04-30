@@ -7,15 +7,20 @@
 </h2>
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=🌱+Currently+learning+MERN+Stack+and+Cloud+Computing.;💻+Passionate+about+building+scalable+web+apps+and+new+technologies.;📚+Always+eager+to+learn+and+grow+as+a+developer.;🛠️+Sharpening+skills+in+React%2C+Node.js%2C+MongoDB%2C+Express%2C+Java%2C+SQL.;🎯+Goal:+Proficient+Full+Stack+Developer+%26+impactful+projects.;📫+Reach+me:+kshitijkumar3108@gmail.com" alt="Typing Points" />
-</h3>
+<ul>
+  <li>🌱 Currently learning <b>MERN Stack</b> and expanding my skills in <b>Cloud Computing</b>.</li>
+  <li>💻 Passionate about <b>building scalable web applications</b> and exploring <b>new technologies</b>.</li>
+  <li>📚 Always eager to learn and grow as a <b>developer</b>.</li>
+  <li>🛠️ Working on sharpening my skills in <b>React</b>, <b>Node.js</b>, <b>MongoDB</b>, <b>Express</b>, <b>Java</b>, and <b>SQL</b>.</li>
+  <li>🎯 Goal: To become a <b>proficient Full Stack Developer</b> and contribute to impactful projects.</li>
+  <li>📫 How to reach me: <b>kshitijkumar3108@gmail.com</b></li>
+</ul>
 
 <br/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center" style="margin-top: 10vw;">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kshitijkr31" alt="Kshitij's GitHub Trophies" />
 </p>
 
