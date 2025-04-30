@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kshitij Kumar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I'm+Kshitij;I'm+Kshitij+Kumar" alt="Typing SVG" />
+</h1>
 
-<h2 align="center">🚀 Aspiring Full Stack Developer</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer" alt="Typing SVG 2" />
+</h2>
 
-<ul>
-  <li>🌱 Currently learning <b>MERN Stack</b> and expanding my skills in <b>Cloud Computing</b>.</li>
-  <li>💻 Passionate about <b>building scalable web applications</b> and exploring <b>new technologies</b>.</li>
-  <li>📚 Always eager to learn and grow as a <b>developer</b>.</li>
-  <li>🛠️ Working on sharpening my skills in <b>React</b>, <b>Node.js</b>, <b>MongoDB</b>, <b>Express</b>, <b>Java</b>, and <b>SQL</b>.</li>
-  <li>🎯 Goal: To become a <b>proficient Full Stack Developer</b> and contribute to impactful projects.</li>
-  <li>📫 How to reach me: <b>kshitijkumar3108@gmail.com</b></li>
-</ul>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=🌱+Currently+learning+MERN+Stack+and+Cloud+Computing.;💻+Passionate+about+building+scalable+web+apps+and+new+technologies.;📚+Always+eager+to+learn+and+grow+as+a+developer.;🛠️+Sharpening+skills+in+React%2C+Node.js%2C+MongoDB%2C+Express%2C+Java%2C+SQL.;🎯+Goal:+Proficient+Full+Stack+Developer+%26+impactful+projects.;📫+Reach+me:+kshitijkumar3108@gmail.com" alt="Typing Points" />
+</h3>
 
 <br/>
 
