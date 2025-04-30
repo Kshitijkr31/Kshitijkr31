@@ -13,7 +13,8 @@
   <li>📚 Always eager to learn and grow as a <b>developer</b>.</li>
   <li>🛠️ Working on sharpening my skills in <b>React</b>, <b>Node.js</b>, <b>MongoDB</b>, <b>Express</b>, <b>Java</b>, and <b>SQL</b>.</li>
   <li>🎯 Goal: To become a <b>proficient Full Stack Developer</b> and contribute to impactful projects.</li>
-  <li>📫 How to reach me: <b>kshitijkumar3108@gmail.com</b></li>
+<li>📫 How to reach me: <b><a href="mailto:kshitijkumar3108@gmail.com">kshitijkumar3108@gmail.com</a></b></li>
+
 </ul>
 
 <br/>
