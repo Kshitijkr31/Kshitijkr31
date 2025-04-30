@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   
   <a href="https://x.com/kshitijkumar31" target="_blank">
-       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/X.svg" alt="X" width="40" height="40" />
+       <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="X" width="40" height="40" />
   </a>
   
   <a href="https://www.instagram.com/kshitijkrofficial_" target="_blank">
