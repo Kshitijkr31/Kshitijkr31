@@ -4,8 +4,9 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=28&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer&color=1E90FF" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=28&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Aspiring+Full+Stack+Developer;%F0%9F%93%8A+Data+Analyst+Enthusiast&color=1E90FF" alt="Typing SVG" />
 </h2>
+
 
 
 <ul>
@@ -120,6 +121,32 @@
   <a href="https://www.thunderclient.io/" target="_blank">
     <img src="https://img.shields.io/badge/ThunderClient-FF6F00?style=flat&logo=thunderclient&logoColor=white" alt="ThunderClient" width="120" />
   </a>
+ <!-- Excel -->
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" width="120" />
+  
+  <!-- Advanced Excel (Custom) -->
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Advanced Excel" width="120" />
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" width="120" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="120" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="120" />
+
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" width="120" />
+
+  <!-- EDA (Custom) -->
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-6C3483?style=flat&logo=databricks&logoColor=white" alt="EDA" width="120" />
+
+  <!-- Data Cleaning (Custom) -->
+  <img src="https://img.shields.io/badge/Data_Cleaning-00897B?style=flat&logo=data&logoColor=white" alt="Data Cleaning" width="120" />
+
+  <!-- Data Visualization (Custom) -->
+  <img src="https://img.shields.io/badge/Data_Visualization-1E88E5?style=flat&logo=visualstudio&logoColor=white" alt="Data Visualization" width="120" />
 </p>
 
 
